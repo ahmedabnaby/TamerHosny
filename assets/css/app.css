@@ -7277,6 +7277,10 @@ form.search-form button.search-submit {
 		font-size: 1em;
 		margin-bottom: 20px;
 	}
+	#header #logo
+	{
+		width: 20% !important;
+	}
 }
 
 @media (max-width: 480px) {
